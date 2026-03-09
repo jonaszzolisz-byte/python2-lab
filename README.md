@@ -20,3 +20,11 @@ semestr 2.
 ## Kontakt
 - GitHub: [twój login](https://github.com/jonaszzolisz-byte)
 -Email : jonasz.zolisz@gmail.com
+## Moj workflow 
+```mermaid
+graph TD
+A[Pomysł] --> B[Kod w Pythonie]
+B --> C[Analiza danych]
+C --> D[Wizualizacja]
+D --> E[Raport]
+```
